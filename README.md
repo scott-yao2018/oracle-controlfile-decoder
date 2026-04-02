@@ -23,7 +23,7 @@ A Python tool to decode and analyze Oracle database control files. This utility 
 
 ```bash
 # Clone or download the script
-git clone https://github.com/yourusername/oracle-controlfile-decoder.git
+git clone https://github.com/scott-yao2018/oracle-controlfile-decoder.git
 cd oracle-controlfile-decoder
 
 # Make executable (optional)
